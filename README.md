@@ -1,1 +1,0 @@
-# Read-06a---Dynamic-web-pages-with-JavaScript.mn
